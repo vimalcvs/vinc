@@ -1,1 +1,2 @@
-# vinc.github.io
+# vinc
+https://vimalcvs.github.io/vinc/
