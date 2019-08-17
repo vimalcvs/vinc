@@ -1,2 +1,2 @@
 # vinc
-https://vimalcvs.github.io/vinc/
+http://technovimal.in
